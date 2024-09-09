@@ -1,5 +1,10 @@
 # Frontend Coding Interview Test
 
+## Solved
+
+**Please continue reading to know more about the outcome**
+**Live Preview:** [**Link**](https://frontend-test-kappa-one.vercel.app/)
+
 We recommend (although not required) to use the following languages, libraries, components: **TypeScript**, **React Query** or **RSC**, **Tailwind**, **shadcnUI**, **Next.js Image component**, and **zod** (for API output validation).
 
 ## How to use
